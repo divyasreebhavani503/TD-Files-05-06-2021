@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Attendance Management System'
-copyright = '2021, Harideep'
-author = 'Harideep, Anil'
+copyright = '2021, bhavani'
+author = 'bhavani, divya'
 
 # The full version, including alpha/beta/rc tags
 release = ''
